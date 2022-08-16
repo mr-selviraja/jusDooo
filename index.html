@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Custom stylesheet -->
+    <link rel="stylesheet" href="./styles.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <!-- Favicon image -->
+    <link rel="icon" href="./images/logo-icon.svg" type="image/x-icon">
+    <title>JusDo | by Selviraja</title>
+</head>
+<body>
+    <div class="app">
+        <h5 class="app__greet">Welcome back <span id="app__username"></span> ..!</h5>
+        <main>
+            <div class="app__todo">
+                <div class="todo__add">
+                    <input type="text" id="todo__add--input" name="todo__add--input" placeholder="Enter task..." />
+                    <button onclick="addTask()">+</button>
+                </div>
+                <div id="todo__list">
+                </div>
+            </div>
+            <button class="btn btn__black" onclick="clearAllTasks()">Clear Tasks</button>
+            <button class="btn btn__green" onclick="resetApp()">Reset App</button>
+        </main>
+        <footer><p>Designed and Developed by Selviraja</p></footer>
+    </div>
+    <script src='./script.js'></script>
+</body>
+</html>
