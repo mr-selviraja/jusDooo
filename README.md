@@ -2,11 +2,13 @@
 
 ## Description
 
-jusDooo is a user-friendly todo list app designed to simplify task management and boost productivity. With jusDooo, you can easily create, edit, and organize your tasks, ensuring that you stay on top of your responsibilities.
+    jusDoo is a simple and intuitive todo list app built as part of learning JavaScript. With jusDoo
 
-The app provides a clean and intuitive interface, allowing you to quickly add new tasks, mark them as complete, and delete those you've finished. jusDooo also supports prioritization, helping you focus on the most important tasks first.
+you can: - Add a task - Mark a task as completed(strikes out) - Delete a task - Takes in and remembers your name
 
-Stay organized and streamline your workflow with jusDooo, the perfect companion for your daily task management needs.
+    jusDoo can be a simple companion for one liner todos as it can remembers(data persists) through the
+
+use of local storage web api.
 
 ## Table of Contents
 
@@ -19,6 +21,7 @@ Stay organized and streamline your workflow with jusDooo, the perfect companion 
 ## Deployment
 
 [Live Demo](#) - https://mr-selviraja.github.io/jusDooo/
+
 ![jusDooo Preview](/images/jusDooo.png)
 
 ## Built With
@@ -38,7 +41,7 @@ Stay organized and streamline your workflow with jusDooo, the perfect companion 
 
 ## authors
 
-https://github.com/mr-selviraja
+[Selviraja Pasagadugula](https://github.com/mr-selviraja)
 
 ## License
 
