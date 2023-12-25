@@ -2,14 +2,13 @@
 
 ## Description
 
-    jusDoo is a simple and intuitive todo list app built as part of learning JavaScript. With jusDoo
-you can: 
+jusDoo is a simple and intuitive todo list app built as part of learning JavaScript. With jusDoo you can: 
 - Add a task
 - Mark a task as completed(strikes out)
 - Delete a task
 - Takes in and remembers your name
 
-    jusDoo can be a simple companion for one liner todos as it can remembers(data persists) through the
+jusDoo can be a simple companion for one liner todos as it can remembers(data persists) through the
 use of local storage Web API.
 
 ## Table of Contents
@@ -22,7 +21,7 @@ use of local storage Web API.
 
 ## Deployment
 
-[Live Demo]([https://github.com/mr-selviraja](https://mr-selviraja.github.io/jusDooo/))
+[Live Demo] - https://github.com/mr-selviraja](https://mr-selviraja.github.io/jusDooo/
 
 ![jusDooo Preview](/images/jusDooo.png)
 
