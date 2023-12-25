@@ -27,8 +27,8 @@ use of local storage Web API.
 
 ## Built With
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Installation
