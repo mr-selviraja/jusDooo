@@ -21,7 +21,7 @@ use of local storage Web API.
 
 ## Deployment
 
-[Live Demo] - https://github.com/mr-selviraja](https://mr-selviraja.github.io/jusDooo/
+[Live Demo] - https://mr-selviraja.github.io/jusDooo/
 
 ![jusDooo Preview](/images/jusDooo.png)
 
